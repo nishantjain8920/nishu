@@ -1,1 +1,1 @@
-# photograph-page
+# photo
